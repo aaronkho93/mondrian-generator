@@ -1,3 +1,5 @@
+"""Created by Aaron Kho (https://aaronkho.com) 2020. Available for public use. """
+
 import random
 import tkinter
 import math
